@@ -1,0 +1,11 @@
+.filterprice {
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.filterprice__item {
+  display: flex;
+  justify-content: space-between;
+}
